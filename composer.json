@@ -1,0 +1,17 @@
+{
+  "name": "pk/app",
+  "autoload": {
+    "psr-4": {
+      "Libs\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ashinindavudha",
+      "email": "ashinindavudha2018@gmail.com"
+    }
+  ],
+  "require": {
+    "fzaninotto/faker": "^1.5"
+  }
+}
